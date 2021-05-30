@@ -1,4 +1,4 @@
-"# Light Dark Mode" 
+# Light Dark Mode
 
 Explore css light and dark theme
 
